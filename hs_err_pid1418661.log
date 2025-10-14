@@ -1,0 +1,45 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x000076142e6c67b0, pid=1418661, tid=1418771
+#
+# JRE version: OpenJDK Runtime Environment Corretto-21.0.4.7.1 (21.0.4+7) (build 21.0.4+7-LTS)
+# Java VM: OpenJDK 64-Bit Server VM Corretto-21.0.4.7.1 (21.0.4+7-LTS, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libstdc++.so.6+0xc67b0]  std::_Rb_tree_insert_and_rebalance(bool, std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::_Rb_tree_node_base&)+0xb0
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/corretto/corretto-21/issues/
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Xmx2048M -Xms2048M server.jar --nogui
+
+Host: Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz, 2 cores, 3G, Ubuntu 22.04.4 LTS
+Time: Wed Oct 23 11:19:02 2024 EDT elapsed time: 579502.490767 seconds (6d 16h 58m 22s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007614aac3c830):  JavaThread "spark-async-sampler-worker-thread"        [_thread_in_native, id=1418771, stack(0x000076142ed00000,0x000076142ee00000) (1024K)]
+
+Stack: [0x000076142ed00000,0x000076142ee00000],  sp=0x000076142edfdf88,  free space=1015k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [libstdc++.so.6+0xc67b0]  std::_Rb_tree_insert_and_rebalance(bool, std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::_Rb_tree_node_base&)+0xb0
+C  [spark-2253281de49bd-libasyncProfiler.so.tmp+0x2f7b4]  Symbols::parseLibraries(CodeCacheArray*, bool)+0x214
+C  [spark-2253281de49bd-libasyncProfiler.so.tmp+0x338d7]  Profiler::start(Arguments&, bool)+0x4e7
+C  [spark-2253281de49bd-libasyncProfiler.so.tmp+0x381bd]  Profiler::runInternal(Arguments&, std::ostream&)+0x84d
+C  [spark-2253281de49bd-libasyncProfiler.so.tmp+0x387fc]  Java_one_profiler_AsyncProfiler_execute0+0x29c
+J 38565  me.lucko.spark.paper.lib.asyncprofiler.AsyncProfiler.execute0(Ljava/lang/String;)Ljava/lang/String; (0 bytes) @ 0x000076149793aef2 [0x000076149793ae20+0x00000000000000d2]
+J 74718 c2 me.lucko.spark.paper.common.sampler.async.AsyncSampler$$Lambda+0x00007614319a50f8.run()V (8 bytes) @ 0x000076149950c0b8 [0x000076149950ad20+0x0000000000001398]
+J 38831 c2 java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run()V java.base@21.0.4 (57 bytes) @ 0x0000761497ad938c [0x0000761497ad9280+0x000000000000010c]
+J 34363% c2 java.util.concurrent.ThreadPoolExecutor.runWorker(Ljava/util/concurrent/ThreadPoolExecutor$Worker;)V java.base@21.0.4 (187 bytes) @ 0x00007614990fcdc4 [0x00007614990fcbe0+0x00000000000001e4]
+j  java.util.concurrent.ThreadPoolExecutor$Worker.run()V+5 java.base@21.0.4
+j  java.lang.Thread.runWith(Ljava/lang/Object;Ljava/lang/Runnable;)V+5 java.base@21.0.4
+j  java.lang.Thread.run()V+19 java.base@21.0.4
+v  ~StubRoutines::call_stub 0x0000761497138cc4
+V  [libjvm.so+0x90fc94]

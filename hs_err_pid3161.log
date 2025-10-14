@@ -1,0 +1,85 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007db7ee42f9e1, pid=3161, tid=3275
+#
+# JRE version: OpenJDK Runtime Environment Corretto-21.0.4.7.1 (21.0.4+7) (build 21.0.4+7-LTS)
+# Java VM: OpenJDK 64-Bit Server VM Corretto-21.0.4.7.1 (21.0.4+7-LTS, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [spark-9265e54803-libasyncProfiler.so.tmp+0x2f9e1]  Symbols::parseLibraries(CodeCacheArray*, bool)+0x441
+#
+# Core dump will be written. Default location: Core dumps may be processed with "/usr/share/apport/apport -p%p -s%s -c%c -d%d -P%P -u%u -g%g -- %E" (or dumping to /home/noxgamingqc/Minecraft server/core.3161)
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/corretto/corretto-21/issues/
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Xmx2048M -Xms2048M server.jar --nogui
+
+Host: Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz, 2 cores, 3G, Ubuntu 22.04.4 LTS
+Time: Tue Oct  8 20:30:39 2024 EDT elapsed time: 461193.548668 seconds (5d 8h 6m 33s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007db8670b8b50):  JavaThread "spark-async-sampler-worker-thread"        [_thread_in_native, id=3275, stack(0x00007db7ee800000,0x00007db7ee900000) (1024K)]
+
+Stack: [0x00007db7ee800000,0x00007db7ee900000],  sp=0x00007db7ee8fdfe0,  free space=1015k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [spark-9265e54803-libasyncProfiler.so.tmp+0x2f9e1]  Symbols::parseLibraries(CodeCacheArray*, bool)+0x441
+C  [spark-9265e54803-libasyncProfiler.so.tmp+0x338d7]  Profiler::start(Arguments&, bool)+0x4e7
+C  [spark-9265e54803-libasyncProfiler.so.tmp+0x381bd]  Profiler::runInternal(Arguments&, std::ostream&)+0x84d
+C  [spark-9265e54803-libasyncProfiler.so.tmp+0x387fc]  Java_one_profiler_AsyncProfiler_execute0+0x29c
+J 30903  me.lucko.spark.paper.lib.asyncprofiler.AsyncProfiler.execute0(Ljava/lang/String;)Ljava/lang/String; (0 bytes) @ 0x00007db85441e472 [0x00007db85441e3a0+0x00000000000000d2]
+J 52389 c2 me.lucko.spark.paper.common.sampler.async.AsyncSampler$$Lambda+0x00007db7f19d42a8.run()V (8 bytes) @ 0x00007db8561e6bc4 [0x00007db8561e52a0+0x0000000000001924]
+J 48660 c2 java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run()V java.base@21.0.4 (57 bytes) @ 0x00007db85534eb0c [0x00007db85534ea00+0x000000000000010c]
+J 27648% c2 java.util.concurrent.ThreadPoolExecutor.runWorker(Ljava/util/concurrent/ThreadPoolExecutor$Worker;)V java.base@21.0.4 (187 bytes) @ 0x00007db855109164 [0x00007db855108f40+0x0000000000000224]
+j  java.util.concurrent.ThreadPoolExecutor$Worker.run()V+5 java.base@21.0.4
+j  java.lang.Thread.runWith(Ljava/lang/Object;Ljava/lang/Runnable;)V+5 java.base@21.0.4
+j  java.lang.Thread.run()V+19 java.base@21.0.4
+v  ~StubRoutines::call_stub 0x00007db853d38cc4
+V  [libjvm.so+0x90fc94]  JavaCalls::call_helper(JavaValue*, methodHandle const&, JavaCallArguments*, JavaThread*)+0x2f4
+V  [libjvm.so+0x91179c]  JavaCalls::call_virtual(JavaValue*, Handle, Klass*, Symbol*, Symbol*, JavaThread*)+0x20c
+V  [libjvm.so+0x9e1706]  thread_entry(JavaThread*, JavaThread*)+0x76
+V  [libjvm.so+0x928a4c]  JavaThread::run()+0x15c
+V  [libjvm.so+0xf8bf8f]  Thread::call_run()+0x9f
+V  [libjvm.so+0xcf49ea]  thread_native_entry(Thread*)+0xda
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+J 30903  me.lucko.spark.paper.lib.asyncprofiler.AsyncProfiler.execute0(Ljava/lang/String;)Ljava/lang/String; (0 bytes) @ 0x00007db85441e404 [0x00007db85441e3a0+0x0000000000000064]
+J 52389 c2 me.lucko.spark.paper.common.sampler.async.AsyncSampler$$Lambda+0x00007db7f19d42a8.run()V (8 bytes) @ 0x00007db8561e6bc4 [0x00007db8561e52a0+0x0000000000001924]
+J 48660 c2 java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run()V java.base@21.0.4 (57 bytes) @ 0x00007db85534eb0c [0x00007db85534ea00+0x000000000000010c]
+J 27648% c2 java.util.concurrent.ThreadPoolExecutor.runWorker(Ljava/util/concurrent/ThreadPoolExecutor$Worker;)V java.base@21.0.4 (187 bytes) @ 0x00007db855109164 [0x00007db855108f40+0x0000000000000224]
+j  java.util.concurrent.ThreadPoolExecutor$Worker.run()V+5 java.base@21.0.4
+j  java.lang.Thread.runWith(Ljava/lang/Object;Ljava/lang/Runnable;)V+5 java.base@21.0.4
+j  java.lang.Thread.run()V+19 java.base@21.0.4
+v  ~StubRoutines::call_stub 0x00007db853d38cc4
+
+siginfo: si_signo: 11 (SIGSEGV), si_code: 1 (SEGV_MAPERR), si_addr: 0x0000000000001dc7
+
+Registers:
+RAX=0x0000000000000000, RBX=0x00007db7d01298b9, RCX=0x0000000000000000, RDX=0x0000000000001da7
+RSP=0x00007db7ee8fdfe0, RBP=0x00007db7ee8fe090, RSI=0x0000000000000010, RDI=0x0fffffffffffffff
+R8 =0x0000000000000003, R9 =0x0000000000000000, R10=0x00007db86d9beac0, R11=0x00007db86d9bf3c0
+R12=0x00007db7d6600000, R13=0x00007db8309e7900, R14=0x0000000000001da7, R15=0x0000080300ca1008
+RIP=0x00007db7ee42f9e1, EFLAGS=0x0000000000010202, CSGSFS=0x002b000000000033, ERR=0x0000000000000004
+  TRAPNO=0x000000000000000e
+
+
+Register to memory mapping:
+
+RAX=0x0 is null
+RBX=0x00007db7d01298b9 points into unknown readable memory: 2f 75 73 72 2f 6c 69
+RCX=0x0 is null
+RDX=0x0000000000001da7 is an unknown value
+RSP=0x00007db7ee8fdfe0 is pointing into the stack for thread: 0x00007db8670b8b50
+RBP=0x00007db7ee8fe090 is pointing into the stack for thread: 0x00007db8670b8b50
+RSI=0x0000000000000010 is an unknown value
+RDI=0x0fffffffffffffff is an unknown value
+R8 =0x0000000000000003 is an unknown value
+R9 =0x0 is null
+R10=0x00007db86d9beac0: <offset 0x00000000001beac0> in /lib/x86_64-linux-gnu/libc.so.6 at 0x00007db86d800000
+R11=0x00007db86d9bf3c0: <offset 0x00000000001bf3c0> in /lib/x86_64-linux-gnu/libc.so.6 at 0x00007db86d800000
+R12=
