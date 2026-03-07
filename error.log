@@ -3,3 +3,5 @@
 /Users/noxgamingqc/Minecraft Server/start.sh: line 10:  2248 Abort trap: 6           java -Xms4G -Xmx6G -jar server.jar nogui
 *** Warning, you've not updated in a while! ***
 *** Please download a new build from https://papermc.io/downloads/paper ***
+2026-03-07T13:38:33.470305Z ServerMain WARN Advanced terminal features are not available in this environment
+2026-03-07T13:42:35.007391Z ServerMain WARN Advanced terminal features are not available in this environment

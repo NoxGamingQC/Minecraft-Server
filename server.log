@@ -1095,3 +1095,1129 @@ java.net.NoRouteToHostException: No route to host
 [08:00:23 INFO]: All I/O tasks to complete
 [08:00:23 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
 [08:00:23 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Downloading mojang_1.21.11.jar
+Applying patches
+Starting org.bukkit.craftbukkit.Main
+[08:38:33 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10; Homebrew Homebrew) on Mac OS X 26.3 (aarch64)
+[08:38:33 INFO]: [bootstrap] Loading Paper 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) for Minecraft 1.21.11
+[08:38:34 INFO]: [PluginInitializerManager] Initializing plugins...
+[08:38:34 INFO]: [ReobfServer] Remapping server...
+[08:38:37 INFO]: [ReobfServer] Done remapping server in 2704ms.
+[08:38:37 INFO]: [PluginRemapper] Remapping plugin 'plugins/multiverse-core-4.3.13.jar'...
+[08:38:37 INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgate-spigot.jar'...
+[08:38:37 INFO]: [PluginRemapper] Done remapping plugin 'plugins/multiverse-core-4.3.13.jar' in 141ms.
+[08:38:37 INFO]: [PluginRemapper] Remapping plugin 'plugins/Dynmap-3.7-beta-8-spigot.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/Dynmap-3.7-beta-8-spigot.jar' in 1808ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/DeluxeHub-3.5.5.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/DeluxeHub-3.5.5.jar' in 202ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/EconomyShopGUI-6.10.2.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgate-spigot.jar' in 2182ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/BentoBox-3.2.3.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/EconomyShopGUI-6.10.2.jar' in 123ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/GroupManager.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/GroupManager.jar' in 57ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/BentoBox-3.2.3.jar' in 185ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/DiscordSRV-Build-1.29.0.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 46ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar'...
+[08:38:39 INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar' in 109ms.
+[08:38:39 INFO]: [PluginRemapper] Remapping plugin 'plugins/multiverse-inventories-4.2.6.jar'...
+[08:38:40 INFO]: [PluginRemapper] Done remapping plugin 'plugins/multiverse-inventories-4.2.6.jar' in 39ms.
+[08:38:40 INFO]: [PluginRemapper] Remapping plugin 'plugins/HeadsPlus-7.1.5.jar'...
+[08:38:40 INFO]: [PluginRemapper] Done remapping plugin 'plugins/HeadsPlus-7.1.5.jar' in 57ms.
+[08:38:40 INFO]: [PluginRemapper] Done remapping plugin 'plugins/DiscordSRV-Build-1.29.0.jar' in 750ms.
+[08:38:40 INFO]: [PluginInitializerManager] Initialized 19 plugins
+[08:38:40 INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[08:38:40 INFO]: [PluginInitializerManager] Bukkit plugins (18):
+ - BentoBox (3.2.3), DeluxeHub (3.5.5), DiscordSRV (1.29.0), Essentials (2.21.1-dev+14-3f5b122), EssentialsChat (2.21.0-dev+164-1a4d75c), EssentialsProtect (2.21.1-dev+14-3f5b122), Geyser-Spigot (2.9.4-SNAPSHOT), GroupManager (3.2 (Phoenix)), HeadsPlus (7.1.5), Multiverse-Core (4.3.13), Multiverse-Inventories (4.2.6), PlaceholderAPI (2.11.6), Vault (1.7.3-b131), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), dynmap (3.7-SNAPSHOT-968), floodgate (2.2.5-SNAPSHOT (b130-d73192f))
+[08:38:42 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:38:42 ERROR]: Couldn't load file/villager death messages v1.2.9 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/name colors v1.0.5 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/item averages v1.3.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/graves v3.0.4 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_26" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/armor statues v2.8.12 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/fast leaf decay v2.0.10 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/multiplayer sleep v2.6.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/kill empty boats v1.1.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/villager workstation highlights v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/dragon drops v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/pillager tools v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/durability ping v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/armored elytra v2.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/player head drops v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/silence mobs v1.2.2 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 ERROR]: Couldn't load file/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:38:42 INFO]: Loaded 1470 recipes
+[08:38:42 INFO]: Loaded 1584 advancements
+[08:38:42 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[08:38:43 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 152,7ms
+[08:38:43 INFO]: Starting minecraft server version 1.21.11
+[08:38:43 INFO]: Loading properties
+[08:38:43 INFO]: This server is running Paper version 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[08:38:43 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:38:43 INFO]: Server Ping Player Sample Count: 12
+[08:38:43 INFO]: Using 4 threads for Netty based IO
+[08:38:43 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[08:38:43 INFO]: Default game type: SURVIVAL
+[08:38:43 INFO]: Generating keypair
+[08:38:43 INFO]: Starting Minecraft server on *:25565
+[08:38:43 INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[08:38:43 INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[08:38:43 INFO]: [SpigotLibraryLoader] [GroupManager] Loading 6 libraries... please wait
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/h2database/h2/2.1.214/h2-2.1.214.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mariadb/jdbc/mariadb-java-client/3.0.7/mariadb-java-client-3.0.7.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/slf4j/slf4j-api/2.0.0/slf4j-api-2.0.0.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loading 5 libraries... please wait
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mariadb/jdbc/mariadb-java-client/3.0.5/mariadb-java-client-3.0.5.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/postgresql/postgresql/42.2.18/postgresql-42.2.18.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/mongodb-driver/3.12.12/mongodb-driver-3.12.12.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/bson/3.12.12/bson-3.12.12.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/mongodb-driver-core/3.12.12/mongodb-driver-core-3.12.12.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[08:38:44 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[08:38:44 INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[08:38:44 INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[08:38:44 INFO]: [GroupManager] Loading server plugin GroupManager v3.2 (Phoenix)
+[08:38:44 INFO]: [GroupManager] Dependencies: OK
+[08:38:44 INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-968
+[08:38:44 INFO]: [dynmap] version=1.21.11-126-3f5728e (MC: 1.21.11)
+[08:38:44 ERROR]: [dynmap] Cannot find [Lnet.minecraft.server.BiomeBase;
+[08:38:44 ERROR]: [dynmap] Cannot find net.minecraft.server.BiomeStorage
+[08:38:44 ERROR]: [dynmap] Unable to find method getHandle for org.bukkit.craftbukkit.CraftChunk
+[08:38:44 ERROR]: [dynmap] Unable to find method getProperties for com.mojang.authlib.GameProfile
+[08:38:44 ERROR]: [dynmap] Unable to find method getValue for com.mojang.authlib.properties.Property
+[08:38:44 ERROR]: [dynmap] Error loading org.dynmap.bukkit.helper.BukkitVersionHelperCB
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.Helper.loadVersionHelper(Helper.java:15) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.Helper.getHelper(Helper.java:109) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onLoad(DynmapPlugin.java:900) ~[?:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:320) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.helper.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:166) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.helper.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:44) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	... 14 more
+[08:38:44 INFO]: [dynmap] Mod Support API available
+[08:38:44 INFO]: [BentoBox] Loading server plugin BentoBox v3.2.3
+[08:38:44 INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.13
+[08:38:44 INFO]: [DeluxeHub] Loading server plugin DeluxeHub v3.5.5
+[08:38:44 INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b130-d73192f)
+[08:38:44 INFO]: [floodgate] Floodgate pris 268ms à se lancer
+[08:38:44 INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[08:38:44 INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[08:38:44 INFO]: [ViaVersion] Loading block connection mappings ...
+[08:38:45 INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[08:38:45 INFO]: [ViaBackwards] Loading translations...
+[08:38:45 INFO]: [ViaBackwards] Registering protocols...
+[08:38:45 INFO]: [ViaRewind] Registering protocols...
+[08:38:45 INFO]: [Essentials] Loading server plugin Essentials v2.21.1-dev+14-3f5b122
+[08:38:45 INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.4-SNAPSHOT
+[08:38:45 INFO]: [Geyser-Spigot] Chargement des extensions...
+[08:38:45 INFO]: [Geyser-Spigot] 0 extension(s) chargé(s)
+[08:38:45 INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:38:45 INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[08:38:45 INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:38:45 INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[08:38:45 INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
+[08:38:45 INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
+[08:38:45 INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.6
+[08:38:45 INFO]: [HeadsPlus] Loading server plugin HeadsPlus v7.1.5
+[08:38:45 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:38:45 INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:38:45 INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:38:45 INFO]: [Vault] [Permission] GroupManager found: Waiting
+[08:38:45 INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:38:45 INFO]: [Vault] [Chat] GroupManager found: Waiting
+[08:38:45 INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:38:45 INFO]: [BentoBox] Enabling BentoBox v3.2.3
+[08:38:45 WARN]: [BentoBox] ************ Disclaimer **************
+[08:38:45 WARN]: [BentoBox] BentoBox may not be compatible with this server!
+[08:38:45 WARN]: [BentoBox] BentoBox is tested only on the following Spigot versions:
+[08:38:45 WARN]: [BentoBox] 1.21.3, 1.21.4
+[08:38:45 WARN]: [BentoBox] **************************************
+[08:38:45 INFO]: [BentoBox] Loading Settings from config.yml...
+[08:38:45 INFO]: [BentoBox] Saving default panels...
+[08:38:46 INFO]: [BentoBox] Loading addons...
+[08:38:46 INFO]: [BentoBox] Loaded 0 addons.
+[08:38:46 INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[08:38:46 INFO]: Preparing level "world"
+[08:38:46 INFO]: Loading 59 persistent chunks for world 'minecraft:overworld'...
+[08:38:46 INFO]: Preparing spawn area: 14%
+[08:38:46 INFO]: Prepared spawn area in 430 ms
+[08:38:46 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[08:38:46 INFO]: Prepared spawn area in 0 ms
+[08:38:46 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[08:38:46 INFO]: Prepared spawn area in 0 ms
+[08:38:46 INFO]: Done preparing level "world" (0.664s)
+[08:38:46 INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[08:38:46 INFO]: [PlaceholderAPI] Fetching available expansion information...
+[08:38:46 INFO]: [GroupManager] Enabling GroupManager v3.2 (Phoenix)
+[08:38:46 INFO]: [GroupManager] OfflinePlayers cached ( 4 ).
+[08:38:46 INFO]: [GroupManager] World Found: world
+[08:38:46 INFO]: [GroupManager] Superperms support enabled.
+[08:38:46 INFO]: [PlaceholderAPI] Successfully registered internal expansion: groupmanager [1.0.0]
+[08:38:46 INFO]: [GroupManager] Add-ons: PlaceholderAPI v2.11.6
+[08:38:46 INFO]: [GroupManager] Scheduled Data Saving is set for every 10 minutes!
+[08:38:46 INFO]: [GroupManager] Backups will be retained for 24 hours!
+[08:38:46 INFO]: [GroupManager] DataSource - YAML
+[08:38:46 INFO]: [GroupManager] version 3.2 (Phoenix) is enabled!
+[08:38:46 INFO]: [Vault][Permission] GroupManager hooked.
+[08:38:46 INFO]: [Vault] [Vault][Chat] GroupManager - Chat hooked.
+[08:38:46 INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-968
+[08:38:46 INFO]: [dynmap] Dynmap is disabled (unsupported platform)
+[08:38:46 ERROR]: Error occurred while enabling dynmap v3.7-SNAPSHOT-968 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.dynmap.DynmapCore.disableCore()" because "this.core" is null
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onDisable(DynmapPlugin.java:1094) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onEnable(DynmapPlugin.java:916) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:38:46 INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.13
+[08:38:46 WARN]: [Multiverse-Core] "Multiverse-Core v4.3.13" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[08:38:46 INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[08:38:46 INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[08:38:46 WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[08:38:46 INFO]: [Multiverse-Core] Version 4.3.13 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[08:38:46 INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[08:38:46 INFO]: [DeluxeHub]  _   _            _          _    _ 
+[08:38:46 INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[08:38:46 INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[08:38:46 INFO]: [DeluxeHub] 
+[08:38:46 INFO]: [DeluxeHub] Version: 3.5.5
+[08:38:46 INFO]: [DeluxeHub] Author: ItsLewizzz
+[08:38:46 INFO]: [DeluxeHub] 
+[08:38:46 INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[08:38:46 INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[08:38:47 WARN]: java.lang.ClassCastException: interface org.bukkit.Sound not an enum
+[08:38:47 WARN]: 	at java.base/java.util.EnumSet.noneOf(EnumSet.java:115)
+[08:38:47 WARN]: 	at java.base/java.util.EnumSet.allOf(EnumSet.java:134)
+[08:38:47 WARN]: 	at com.google.common.base.Enums.populateCache(Enums.java:79)
+[08:38:47 WARN]: 	at com.google.common.base.Enums.getEnumConstants(Enums.java:91)
+[08:38:47 WARN]: 	at com.google.common.base.Platform.getEnumIfPresent(Platform.java:40)
+[08:38:47 WARN]: 	at com.google.common.base.Enums.getIfPresent(Enums.java:70)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.utility.universal.XSound.parseSound(XSound.java:1098)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.chat.AutoBroadcast.onEnable(AutoBroadcast.java:46)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95)
+[08:38:47 WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[08:38:47 WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[08:38:47 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639)
+[08:38:47 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636)
+[08:38:47 WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[08:38:47 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[08:38:47 ERROR]: [DeluxeHub] ============= DELUXEHUB MODULE LOAD ERROR =============
+[08:38:47 ERROR]: [DeluxeHub] There was an error loading the ANNOUNCEMENTS module
+[08:38:47 ERROR]: [DeluxeHub] The plugin will now disable..
+[08:38:47 ERROR]: [DeluxeHub] ============= DELUXEHUB MODULE LOAD ERROR =============
+[08:38:47 INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[08:38:47 WARN]: java.lang.NullPointerException: Cannot invoke "java.util.Set.forEach(java.util.function.Consumer)" because "this.holograms" is null
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hologram.HologramManager.saveHolograms(HologramManager.java:61)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hologram.HologramManager.onDisable(HologramManager.java:36)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.unloadModules(ModuleManager.java:92)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onDisable(DeluxeHubPlugin.java:113)
+[08:38:47 WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:242)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[08:38:47 WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:80)
+[08:38:47 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95)
+[08:38:47 WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207)
+[08:38:47 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[08:38:47 WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[08:38:47 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639)
+[08:38:47 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636)
+[08:38:47 WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253)
+[08:38:47 WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[08:38:47 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[08:38:47 ERROR]: [DeluxeHub] There was an error unloading the HOLOGRAMS module.
+[08:38:47 INFO]: [DeluxeHub] Loaded 0 plugin modules.
+[08:38:47 ERROR]: Error occurred while enabling DeluxeHub v3.5.5 (Is it up to date?)
+java.lang.IllegalStateException: The plugin classloader for DeluxeHub has thrown a zip file error.
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:228) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:180) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:175) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:98) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalStateException: zip file closed
+	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
+	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
+	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:517) ~[?:?]
+	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:472) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:223) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	... 16 more
+[08:38:47 INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b130-d73192f)
+[08:38:47 INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[08:38:47 ERROR]: [ViaVersion] Server version has not been loaded yet, cannot register additional listeners
+[08:38:47 INFO]: [Essentials] Enabling Essentials v2.21.1-dev+14-3f5b122
+[08:38:47 ERROR]: [Essentials] Vous utilisez une version de serveur non prise en charge !
+[08:38:47 WARN]: [Essentials] Versions différentes ! Veuillez mettre EssentialsChat à la même version.
+[08:38:47 INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:38:47 INFO]: [Essentials] No kits found to migrate.
+[08:38:47 INFO]: [Essentials] Starting Essentials ban format conversion
+[08:38:47 INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[08:38:47 INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[08:38:47 INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[08:38:47 INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[08:38:47 INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[08:38:47 INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[08:38:47 INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[08:38:47 INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[08:38:47 INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[08:38:47 INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[08:38:47 INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[08:38:47 INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[08:38:47 INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[08:38:47 INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[08:38:47 INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[08:38:47 INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[08:38:47 INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[08:38:47 INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[08:38:47 INFO]: [Essentials] Loaded 43517 items from items.json.
+[08:38:47 INFO]: [Essentials] Using locale fr_CA
+[08:38:47 INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:38:47 INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:38:47 INFO]: [Vault] [Economy] Essentials Economy hooked.
+[08:38:47 INFO]: [Essentials] Using Vault based permissions (GroupManager)
+[08:38:47 INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.4-SNAPSHOT
+[08:38:48 INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:38:48 WARN]: [EssentialsChat] Versions différentes ! Veuillez mettre à jour tous les jars Essentials à la même version.
+[08:38:48 INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[08:38:48 INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[08:38:48 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:38:48 INFO]: [EssentialsProtect] Continuing to enable Protect.
+[08:38:48 INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[08:38:48 INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[08:38:48 ERROR]: Error occurred while enabling EconomyShopGUI v6.10.2 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.files.Lang.get(Lang.java:492) ~[?:?]
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.files.Lang.reload(Lang.java:460) ~[?:?]
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.EconomyShopGUI.onEnable(EconomyShopGUI.java:160) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "me.gypopo.economyshopgui.util.ServerInfo$Version.newerOrEqualAs(me.gypopo.economyshopgui.util.ServerInfo$Version)" because the return value of "me.gypopo.economyshopgui.util.ServerInfo.getVersion()" is null
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.util.ChatUtil.<clinit>(ChatUtil.java:18) ~[?:?]
+	... 14 more
+[08:38:48 INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[08:38:48 INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[08:38:48 INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[08:38:48 INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[08:38:48 INFO]: [HeadsPlus] Enabling HeadsPlus v7.1.5
+[08:38:48 INFO]: [HeadsPlus] Using the PaperProfileHandler profile handler.
+[08:38:48 ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[08:38:48 INFO]: [HeadsPlus] Registered 438 heads.
+[08:38:48 INFO]: [HeadsPlus] Registered 3 masks.
+[08:38:48 INFO]: [PlaceholderAPI] Successfully registered internal expansion: headsplus [7.1.5]
+[08:38:48 INFO]: [HeadsPlus] We've registered our PAPI placeholders!
+[08:38:48 INFO]: HeadsPlus »  HeadsPlus has been enabled!
+[08:38:48 INFO]:     __  __               __     ____  __                   _____
+[08:38:48 INFO]:    / / / /__  ____ _____/ /____/ __ \/ /_  _______   _   _/__  /
+[08:38:48 INFO]:   / /_/ / _ \/ __ `/ __  / ___/ /_/ / / / / / ___/  | | / / / / 
+[08:38:48 INFO]:  / __  /  __/ /_/ / /_/ /__  / ____/ / /_/ /__  /   | |/ / / /  
+[08:38:48 INFO]: /_/ /_/\___/\__,_/\__,_/____/_/   /_/\__,_/____/    |___/ /_/  
+[08:38:48 INFO]:                                                                 
+[08:38:48 INFO]: HeadsPlus 7.1.5 has been enabled successfully!
+[08:38:48 INFO]: 
+[08:38:48 INFO]: [spark] Starting background profiler...
+[08:38:48 WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 58 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[08:38:48 WARN]: Could not register alias sell because it contains commands that do not exist: economyshopgui:sellall $1-
+[08:38:48 INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:38:48 INFO]: 0 placeholder hook(s) registered!
+[08:38:48 INFO]: [Geyser-Spigot] ******************************************
+[08:38:48 INFO]: [Geyser-Spigot] 
+[08:38:48 INFO]: [Geyser-Spigot] Chargement Geyser version 2.9.4-b1092 (git-master-bf93cc3)
+[08:38:48 INFO]: [Geyser-Spigot] 
+[08:38:48 INFO]: [Geyser-Spigot] ******************************************
+[08:38:50 INFO]: [Geyser-Spigot] Geyser a démarré sur le port UDP 19132
+[08:38:50 INFO]: [Geyser-Spigot] Terminé (1,638s) ! Exécuter /geyser help pour de l'aide !
+[08:38:50 INFO]: Running delayed init tasks
+[08:38:50 INFO]: [BentoBox] Hooking with Vault...
+[08:38:50 INFO]: [Essentials] Récupération des informations de version...
+[08:38:50 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:38:50 INFO]: [BentoBox] Hooking with PlaceholderAPI...
+[08:38:50 WARN]: [HeadsPlus] Head with ID camel_husk not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID copper_golem not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID creaking not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID happy_ghast not found.
+[08:38:50 INFO]: [PlaceholderAPI] Successfully registered internal expansion: bentobox [3.2.3]
+[08:38:50 WARN]: [HeadsPlus] Head with ID mannequin not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID nautilus not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID parched not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID BLACK_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID BLACK_AND_WHITE_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID BROWN_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID GOLD_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID SALT_AND_PEPPER_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID THE_KILLER_BUNNY_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID WHITE_rabbit not found.
+[08:38:50 WARN]: [HeadsPlus] Head with ID zombie_nautilus not found.
+[08:38:50 INFO]: [Vault] Checking for Updates ... 
+[08:38:50 INFO]: [HeadsPlus] Registered 1 rewards.
+[08:38:50 INFO]: [HeadsPlus] Registered 36 levels.
+[08:38:50 INFO]: [BentoBox] Loading islands from database...
+[08:38:50 INFO]: [BentoBox] Hooking with Multiverse-Core...
+[08:38:50 INFO]: 
+  ____             _        ____
+ |  _ \           | |      |  _ \             by tastybento and Poslovitch
+ | |_) | ___ _ __ | |_ ___ | |_) | _____  __  2017 - 2023
+ |  _ < / _ \ '_ \| __/ _ \|  _ < / _ \ \/ /
+ | |_) |  __/ | | | || (_) | |_) | (_) >  <   v3.2.3
+ |____/ \___|_| |_|\__\___/|____/ \___/_/\_\  Loaded in 563ms.
+
+[08:38:50 INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[08:38:50 INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[08:38:50 INFO]: [GroupManager] Bukkit Permissions Updated!
+[08:38:50 INFO]: [Multiverse-Inventories] First run!
+[08:38:50 WARN]: [BentoBox] No Regenerator found for v1_21_11_R0_1_SNAPSHOT, falling back to Bukkit API.
+[08:38:50 INFO]: [BentoBox] All blueprints loaded.
+[08:38:50 INFO]: Done (17.565s)! For help, type "help"
+[08:38:50 INFO]: [GroupManager] No new version available
+[08:38:50 INFO]: [Vault] No new version available
+[08:38:50 INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[08:38:50 INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[08:38:50 INFO]: HeadsPlus »  Current version: 7.1.5
+HeadsPlus »  New version: 7.1.6
+HeadsPlus »  Description: Important Database Fix, 1.21.5 Variant Support and other fixes
+[08:38:50 INFO]: [HeadsPlus] Download link: https://www.spigotmc.org/resources/headsplus-1-8-x-1-12-x.40265/
+[08:38:50 WARN]: [ViaVersion] There is a newer plugin version available: 5.7.2, you're on: 5.3.2
+[08:38:50 WARN]: [Essentials] Vous êtes en retard de 114 version(s) de développement d‘EssentialsX !
+[08:38:50 WARN]: [Essentials] Téléchargez-la ici : https://essentialsx.net/downloads.html
+[08:38:50 INFO]: [Geyser-Spigot] Téléchargement du JAR Minecraft pour extraire les fichiers requis, veuillez patienter... (ceci pourrait prendre du temps selon la rapidité de votre connexion internet)
+[08:38:51 INFO]: [Geyser-Spigot] Minecraft JAR a été téléchargé et chargé avec succès !
+[08:38:51 INFO]: [HeadsPlus] Avengers, assemble!
+[08:38:51 INFO]: [BentoBox] Downloading data from GitHub...
+[08:38:51 INFO]: [BentoBox] Updating the Catalog...
+[08:38:51 INFO]: [BentoBox] Updating Contributors information...
+[08:38:51 INFO]: [BentoBox] Gathering contribution data for: BentoBoxWorld/BentoBox
+[08:38:52 INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[08:38:53 INFO]: [GroupManager] Async Player Login event refresh data... 
+[08:38:53 INFO]: [GroupManager] Async Player Login event finshed. 
+[08:38:53 INFO]: UUID of player NoxGamingQC is ca9805ec-b880-43b0-b977-8835f41209c3
+[08:38:53 INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GroupManager]
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/decorations/chain' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_bed' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_carpet' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_lime_bed' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_lime_carpet' in progress file ./world/advancements/ca9805ec-b880-43b0-b977-8835f41209c3.json - it doesn't exist anymore?
+[08:38:53 ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:chain] removed now.
+[08:38:53 ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:chain] removed now.
+[08:38:53 INFO]: NoxGamingQC joined the game
+[08:38:53 INFO]: NoxGamingQC[/127.0.0.1:56946] logged in with entity id 88 at ([world]-39.16323, 77.0, 24.49316)
+[08:38:54 WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[08:39:12 INFO]: NoxGamingQC lost connection: Disconnected
+[08:39:12 INFO]: NoxGamingQC left the game
+[08:39:15 INFO]: [GroupManager] Async Player Login event refresh data... 
+[08:39:15 INFO]: [GroupManager] Async Player Login event finshed. 
+[08:39:15 INFO]: UUID of player NoxGamingQC is ca9805ec-b880-43b0-b977-8835f41209c3
+[08:39:15 INFO]: NoxGamingQC joined the game
+[08:39:15 INFO]: NoxGamingQC[/127.0.0.1:57018] logged in with entity id 398 at ([world]-39.16323, 77.0, 24.49316)
+[08:39:24 INFO]: NoxGamingQC lost connection: Disconnected
+[08:39:24 INFO]: NoxGamingQC left the game
+[08:39:35 INFO]: [GroupManager] Async Player Login event refresh data... 
+[08:39:35 INFO]: [GroupManager] Async Player Login event finshed. 
+[08:39:35 INFO]: UUID of player NoxGamingQC is ca9805ec-b880-43b0-b977-8835f41209c3
+[08:39:35 INFO]: NoxGamingQC joined the game
+[08:39:35 INFO]: NoxGamingQC[/127.0.0.1:57031] logged in with entity id 399 at ([world]-39.16323, 77.0, 24.49316)
+[08:39:55 INFO]: NoxGamingQC lost connection: Disconnected
+[08:39:55 INFO]: NoxGamingQC left the game
+[08:42:32 INFO]: Stopping server
+[08:42:32 INFO]: [HeadsPlus] Disabling HeadsPlus v7.1.5
+[08:42:32 INFO]: [HeadsPlus] §cHeadsPlus §8» §7 HeadsPlus has been disabled!
+[08:42:32 INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[08:42:32 INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[08:42:32 INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:42:32 INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[08:42:32 INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:42:32 INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.4-SNAPSHOT
+[08:42:32 INFO]: [Geyser-Spigot] Arrêter Geyser.
+[08:42:32 INFO]: [Geyser-Spigot] L'arrêt de Geyser a réussi.
+[08:42:32 INFO]: [Essentials] Disabling Essentials v2.21.1-dev+14-3f5b122
+[08:42:32 INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:42:32 INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[08:42:32 INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:42:32 INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b130-d73192f)
+[08:42:32 INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.13
+[08:42:32 INFO]: [BentoBox] Disabling BentoBox v3.2.3
+[08:42:32 INFO]: [BentoBox] Removing coops from islands...
+[08:42:32 INFO]: [BentoBox] Saving islands - this has to be done sync so it may take a while with a lot of islands...
+[08:42:32 INFO]: [BentoBox] Islands saved.
+[08:42:32 INFO]: [BentoBox] Closing database.
+[08:42:32 INFO]: [GroupManager] Disabling GroupManager v3.2 (Phoenix)
+[08:42:32 INFO]: [Vault][Permission] GroupManager un-hooked.
+[08:42:32 INFO]: [Vault] [Vault][Chat] GroupManager - Chat un-hooked.
+[08:42:32 WARN]: [GroupManager] Scheduled Data Saving is Disabled!
+[08:42:32 INFO]: [GroupManager] version 3.2 (Phoenix) is disabled!
+[08:42:32 INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:42:32 INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[08:42:32 INFO]: Saving players
+[08:42:32 INFO]: [Geyser-Spigot] The skin uploader has been closed
+[08:42:32 INFO]: Saving worlds
+[08:42:32 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:42:32 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:42:32 INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:42:32 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:42:33 INFO]: [ChunkHolderManager] Saved 624 block chunks, 624 entity chunks, 0 poi chunks in world 'world' in 0,40s
+[08:42:33 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[08:42:33 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[08:42:33 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:42:33 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:42:33 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:42:33 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:42:33 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
+[08:42:33 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[08:42:33 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[08:42:33 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:42:33 INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:42:33 INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:42:33 INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:42:33 INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0,00s
+[08:42:33 INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[08:42:33 INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[08:42:33 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:42:33 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:42:33 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:42:33 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:42:33 INFO]: Waiting for all RegionFile I/O tasks to complete...
+[08:42:33 INFO]: All RegionFile I/O tasks to complete
+[08:42:33 INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[08:42:33 INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+Starting org.bukkit.craftbukkit.Main
+[08:42:35 INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10; Homebrew Homebrew) on Mac OS X 26.3 (aarch64)
+[08:42:35 INFO]: [bootstrap] Loading Paper 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) for Minecraft 1.21.11
+[08:42:35 INFO]: [PluginInitializerManager] Initializing plugins...
+[08:42:35 INFO]: [PluginInitializerManager] Initialized 19 plugins
+[08:42:35 INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[08:42:35 INFO]: [PluginInitializerManager] Bukkit plugins (18):
+ - BentoBox (3.2.3), DeluxeHub (3.5.5), DiscordSRV (1.29.0), Essentials (2.21.1-dev+14-3f5b122), EssentialsChat (2.21.0-dev+164-1a4d75c), EssentialsProtect (2.21.1-dev+14-3f5b122), Geyser-Spigot (2.9.4-SNAPSHOT), GroupManager (3.2 (Phoenix)), HeadsPlus (7.1.5), Multiverse-Core (4.3.13), Multiverse-Inventories (4.2.6), PlaceholderAPI (2.11.6), Vault (1.7.3-b131), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), dynmap (3.7-SNAPSHOT-968), floodgate (2.2.5-SNAPSHOT (b130-d73192f))
+[08:42:37 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:42:37 ERROR]: Couldn't load file/villager death messages v1.2.9 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/name colors v1.0.5 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/item averages v1.3.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/graves v3.0.4 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_26" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/armor statues v2.8.12 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/fast leaf decay v2.0.10 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/multiplayer sleep v2.6.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/kill empty boats v1.1.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/villager workstation highlights v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/dragon drops v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/pillager tools v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/durability ping v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/armored elytra v2.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/player head drops v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/silence mobs v1.2.2 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:37 ERROR]: Couldn't load file/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[08:42:38 INFO]: Loaded 1470 recipes
+[08:42:38 INFO]: Loaded 1584 advancements
+[08:42:38 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[08:42:38 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 184,5ms
+[08:42:38 INFO]: Starting minecraft server version 1.21.11
+[08:42:38 INFO]: Loading properties
+[08:42:38 INFO]: This server is running Paper version 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[08:42:38 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:42:38 INFO]: Server Ping Player Sample Count: 12
+[08:42:38 INFO]: Using 4 threads for Netty based IO
+[08:42:38 INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[08:42:39 INFO]: Default game type: SURVIVAL
+[08:42:39 INFO]: Generating keypair
+[08:42:39 INFO]: Starting Minecraft server on *:25565
+[08:42:39 INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[08:42:39 INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loading 6 libraries... please wait
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/h2database/h2/2.1.214/h2-2.1.214.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mariadb/jdbc/mariadb-java-client/3.0.7/mariadb-java-client-3.0.7.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/slf4j/slf4j-api/2.0.0/slf4j-api-2.0.0.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loading 5 libraries... please wait
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mariadb/jdbc/mariadb-java-client/3.0.5/mariadb-java-client-3.0.5.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/postgresql/postgresql/42.2.18/postgresql-42.2.18.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/mongodb-driver/3.12.12/mongodb-driver-3.12.12.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/bson/3.12.12/bson-3.12.12.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/mongodb/mongodb-driver-core/3.12.12/mongodb-driver-core-3.12.12.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[08:42:39 INFO]: [SpigotLibraryLoader] [BentoBox] Loaded library /Users/noxgamingqc/Minecraft server/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[08:42:40 INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[08:42:40 INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[08:42:40 INFO]: [GroupManager] Loading server plugin GroupManager v3.2 (Phoenix)
+[08:42:40 INFO]: [GroupManager] Dependencies: OK
+[08:42:40 INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-968
+[08:42:40 INFO]: [dynmap] version=1.21.11-126-3f5728e (MC: 1.21.11)
+[08:42:40 ERROR]: [dynmap] Cannot find [Lnet.minecraft.server.BiomeBase;
+[08:42:40 ERROR]: [dynmap] Cannot find net.minecraft.server.BiomeStorage
+[08:42:40 ERROR]: [dynmap] Unable to find method getHandle for org.bukkit.craftbukkit.CraftChunk
+[08:42:40 ERROR]: [dynmap] Unable to find method getProperties for com.mojang.authlib.GameProfile
+[08:42:40 ERROR]: [dynmap] Unable to find method getValue for com.mojang.authlib.properties.Property
+[08:42:40 ERROR]: [dynmap] Error loading org.dynmap.bukkit.helper.BukkitVersionHelperCB
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.Helper.loadVersionHelper(Helper.java:15) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.Helper.getHelper(Helper.java:109) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onLoad(DynmapPlugin.java:900) ~[?:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:320) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.helper.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:166) ~[?:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.helper.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:44) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	... 14 more
+[08:42:40 INFO]: [dynmap] Mod Support API available
+[08:42:40 INFO]: [BentoBox] Loading server plugin BentoBox v3.2.3
+[08:42:40 INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.13
+[08:42:40 INFO]: [DeluxeHub] Loading server plugin DeluxeHub v3.5.5
+[08:42:40 INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b130-d73192f)
+[08:42:40 INFO]: [floodgate] Floodgate pris 396ms à se lancer
+[08:42:40 INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[08:42:40 INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[08:42:41 INFO]: [ViaVersion] Loading block connection mappings ...
+[08:42:41 INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[08:42:41 INFO]: [ViaBackwards] Loading translations...
+[08:42:41 INFO]: [ViaBackwards] Registering protocols...
+[08:42:41 INFO]: [ViaRewind] Registering protocols...
+[08:42:41 INFO]: [Essentials] Loading server plugin Essentials v2.21.1-dev+14-3f5b122
+[08:42:41 INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.4-SNAPSHOT
+[08:42:41 INFO]: [Geyser-Spigot] Chargement des extensions...
+[08:42:41 INFO]: [Geyser-Spigot] 0 extension(s) chargé(s)
+[08:42:41 INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:42:41 INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[08:42:41 INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:42:41 INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[08:42:41 INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
+[08:42:41 INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
+[08:42:41 INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.6
+[08:42:41 INFO]: [HeadsPlus] Loading server plugin HeadsPlus v7.1.5
+[08:42:41 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:42:41 INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:42:41 INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:42:41 INFO]: [Vault] [Permission] GroupManager found: Waiting
+[08:42:41 INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:42:41 INFO]: [Vault] [Chat] GroupManager found: Waiting
+[08:42:41 INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:42:41 INFO]: [BentoBox] Enabling BentoBox v3.2.3
+[08:42:41 WARN]: [BentoBox] ************ Disclaimer **************
+[08:42:41 WARN]: [BentoBox] BentoBox may not be compatible with this server!
+[08:42:41 WARN]: [BentoBox] BentoBox is tested only on the following Spigot versions:
+[08:42:41 WARN]: [BentoBox] 1.21.3, 1.21.4
+[08:42:41 WARN]: [BentoBox] **************************************
+[08:42:41 INFO]: [BentoBox] Loading Settings from config.yml...
+[08:42:41 INFO]: [BentoBox] Saving default panels...
+[08:42:43 INFO]: [BentoBox] Loading addons...
+[08:42:43 INFO]: [BentoBox] Loaded 0 addons.
+[08:42:43 INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[08:42:43 INFO]: Preparing level "world"
+[08:42:43 INFO]: Loading 59 persistent chunks for world 'minecraft:overworld'...
+[08:42:43 INFO]: Preparing spawn area: 14%
+[08:42:43 INFO]: Prepared spawn area in 403 ms
+[08:42:43 INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[08:42:43 INFO]: Prepared spawn area in 0 ms
+[08:42:43 INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[08:42:43 INFO]: Prepared spawn area in 0 ms
+[08:42:43 INFO]: Done preparing level "world" (0.830s)
+[08:42:43 INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[08:42:44 INFO]: [PlaceholderAPI] Fetching available expansion information...
+[08:42:44 INFO]: [GroupManager] Enabling GroupManager v3.2 (Phoenix)
+[08:42:44 INFO]: [GroupManager] OfflinePlayers cached ( 4 ).
+[08:42:44 INFO]: [GroupManager] World Found: world
+[08:42:44 INFO]: [GroupManager] Superperms support enabled.
+[08:42:44 INFO]: [PlaceholderAPI] Successfully registered internal expansion: groupmanager [1.0.0]
+[08:42:44 INFO]: [GroupManager] Add-ons: PlaceholderAPI v2.11.6
+[08:42:44 INFO]: [GroupManager] Scheduled Data Saving is set for every 10 minutes!
+[08:42:44 INFO]: [GroupManager] Backups will be retained for 24 hours!
+[08:42:44 INFO]: [GroupManager] DataSource - YAML
+[08:42:44 INFO]: [GroupManager] version 3.2 (Phoenix) is enabled!
+[08:42:44 INFO]: [Vault][Permission] GroupManager hooked.
+[08:42:44 INFO]: [Vault] [Vault][Chat] GroupManager - Chat hooked.
+[08:42:44 INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-968
+[08:42:44 INFO]: [dynmap] Dynmap is disabled (unsupported platform)
+[08:42:44 ERROR]: Error occurred while enabling dynmap v3.7-SNAPSHOT-968 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.dynmap.DynmapCore.disableCore()" because "this.core" is null
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onDisable(DynmapPlugin.java:1094) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at Dynmap-3.7-beta-8-spigot.jar//org.dynmap.bukkit.DynmapPlugin.onEnable(DynmapPlugin.java:916) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:42:44 INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.13
+[08:42:44 WARN]: [Multiverse-Core] "Multiverse-Core v4.3.13" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[08:42:44 INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[08:42:44 INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[08:42:44 WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[08:42:44 INFO]: [Multiverse-Core] Version 4.3.13 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[08:42:44 INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[08:42:44 INFO]: [DeluxeHub]  _   _            _          _    _ 
+[08:42:44 INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[08:42:44 INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[08:42:44 INFO]: [DeluxeHub] 
+[08:42:44 INFO]: [DeluxeHub] Version: 3.5.5
+[08:42:44 INFO]: [DeluxeHub] Author: ItsLewizzz
+[08:42:44 INFO]: [DeluxeHub] 
+[08:42:44 INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[08:42:44 INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[08:42:44 WARN]: [NBTAPI] [NBTAPI] Error while trying to resolve the class 'inventory.CraftItemStack'!
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.getVersion(MinecraftVersion.java:111) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.isAtLeastVersion(MinecraftVersion.java:88) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:86) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:72) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<clinit>(ClassWrapper.java:17) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ReflectionMethod.<clinit>(ReflectionMethod.java:24) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.NBTCompound.setString(NBTCompound.java:176) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarItem.<init>(HotbarItem.java:37) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.items.CustomItem.<init>(CustomItem.java:16) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarManager.onEnable(HotbarManager.java:34) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:42:44 WARN]: [NBTAPI] [NBTAPI] Error while trying to resolve the class 'inventory.CraftMetaItem'!
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.getVersion(MinecraftVersion.java:111) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.isAtLeastVersion(MinecraftVersion.java:88) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:86) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:72) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<clinit>(ClassWrapper.java:18) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ReflectionMethod.<clinit>(ReflectionMethod.java:24) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.NBTCompound.setString(NBTCompound.java:176) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarItem.<init>(HotbarItem.java:37) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.items.CustomItem.<init>(CustomItem.java:16) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarManager.onEnable(HotbarManager.java:34) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:42:44 WARN]: [NBTAPI] [NBTAPI] Error while trying to resolve the class 'entity.CraftEntity'!
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.getVersion(MinecraftVersion.java:111) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.isAtLeastVersion(MinecraftVersion.java:88) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:86) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:72) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<clinit>(ClassWrapper.java:19) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ReflectionMethod.<clinit>(ReflectionMethod.java:24) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.NBTCompound.setString(NBTCompound.java:176) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarItem.<init>(HotbarItem.java:37) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.items.CustomItem.<init>(CustomItem.java:16) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarManager.onEnable(HotbarManager.java:34) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:42:44 WARN]: [NBTAPI] [NBTAPI] Error while trying to resolve the class 'CraftWorld'!
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.getVersion(MinecraftVersion.java:111) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.isAtLeastVersion(MinecraftVersion.java:88) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:86) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:72) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<clinit>(ClassWrapper.java:20) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ReflectionMethod.<clinit>(ReflectionMethod.java:24) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.NBTCompound.setString(NBTCompound.java:176) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarItem.<init>(HotbarItem.java:37) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.items.CustomItem.<init>(CustomItem.java:16) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarManager.onEnable(HotbarManager.java:34) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:42:44 ERROR]: Error occurred while enabling DeluxeHub v3.5.5 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ReflectionMethod.<clinit>(ReflectionMethod.java:24) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.NBTCompound.setString(NBTCompound.java:176) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarItem.<init>(HotbarItem.java:37) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.items.CustomItem.<init>(CustomItem.java:16) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hotbar.HotbarManager.onEnable(HotbarManager.java:34) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.loadModules(ModuleManager.java:73) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onEnable(DeluxeHubPlugin.java:95) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.MinecraftVersion.getVersion(MinecraftVersion.java:111) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:78) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<init>(ClassWrapper.java:72) ~[?:?]
+	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.libs.nbt.utils.nmsmappings.ClassWrapper.<clinit>(ClassWrapper.java:21) ~[?:?]
+	... 18 more
+[08:42:44 INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[08:42:44 WARN]: java.lang.NullPointerException: Cannot invoke "java.util.Set.forEach(java.util.function.Consumer)" because "this.holograms" is null
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hologram.HologramManager.saveHolograms(HologramManager.java:61)
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.hologram.HologramManager.onDisable(HologramManager.java:36)
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.unloadModules(ModuleManager.java:92)
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onDisable(DeluxeHubPlugin.java:113)
+[08:42:44 WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:242)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[08:42:44 WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:211)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[08:42:44 WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[08:42:44 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639)
+[08:42:44 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636)
+[08:42:44 WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[08:42:44 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[08:42:44 ERROR]: [DeluxeHub] There was an error unloading the HOLOGRAMS module.
+[08:42:44 WARN]: java.lang.NullPointerException: Cannot invoke "java.util.List.clear()" because "this.vanished" is null
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.modules.player.PlayerVanish.onDisable(PlayerVanish.java:34)
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.module.ModuleManager.unloadModules(ModuleManager.java:92)
+[08:42:44 WARN]: 	at DeluxeHub-3.5.5.jar//fun.lewisdev.deluxehub.DeluxeHubPlugin.onDisable(DeluxeHubPlugin.java:113)
+[08:42:44 WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:242)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[08:42:44 WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:211)
+[08:42:44 WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[08:42:44 WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[08:42:44 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639)
+[08:42:44 WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636)
+[08:42:44 WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253)
+[08:42:44 WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[08:42:44 WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[08:42:44 ERROR]: [DeluxeHub] There was an error unloading the VANISH module.
+[08:42:44 INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b130-d73192f)
+[08:42:44 INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[08:42:44 ERROR]: [ViaVersion] Server version has not been loaded yet, cannot register additional listeners
+[08:42:44 INFO]: [Essentials] Enabling Essentials v2.21.1-dev+14-3f5b122
+[08:42:44 ERROR]: [Essentials] Vous utilisez une version de serveur non prise en charge !
+[08:42:44 WARN]: [Essentials] Versions différentes ! Veuillez mettre EssentialsChat à la même version.
+[08:42:44 INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:42:44 INFO]: [Essentials] No kits found to migrate.
+[08:42:44 INFO]: [Essentials] Starting Essentials ban format conversion
+[08:42:44 INFO]: [Essentials] Found 1 files to convert...
+[08:42:44 INFO]: [Essentials] Converted 0/1
+[08:42:44 INFO]: [Essentials] Ban format update complete.
+[08:42:44 INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[08:42:44 INFO]: [Essentials] Done converting ignore list.
+[08:42:44 INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[08:42:44 INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[08:42:44 INFO]: [Essentials] Done converting mail list.
+[08:42:44 INFO]: [Essentials] #===========================================================================#
+[08:42:44 INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[08:42:44 INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[08:42:44 INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[08:42:44 INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[08:42:44 INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[08:42:44 INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[08:42:44 INFO]: [Essentials]  report it to us on GitHub:
+[08:42:44 INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[08:42:44 INFO]: [Essentials] 
+[08:42:44 INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[08:42:44 INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[08:42:44 INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[08:42:44 INFO]: [Essentials] #===========================================================================#
+[08:42:44 INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[08:42:44 INFO]: [Essentials] #===========================================================================#
+[08:42:44 INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[08:42:44 INFO]: [Essentials] 
+[08:42:44 INFO]: [Essentials]  Deleted accounts: 0
+[08:42:44 INFO]: [Essentials]  Total accounts processed: 1
+[08:42:44 INFO]: [Essentials] 
+[08:42:44 INFO]: [Essentials]  Purged accounts have been backed up to
+[08:42:44 INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[08:42:44 INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[08:42:44 INFO]: [Essentials]  to us on GitHub:
+[08:42:44 INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[08:42:44 INFO]: [Essentials] #===========================================================================#
+[08:42:44 INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[08:42:44 INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[08:42:44 INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[08:42:44 INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[08:42:44 INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[08:42:44 INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[08:42:44 INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[08:42:44 INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[08:42:44 INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[08:42:44 INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[08:42:44 INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[08:42:44 INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[08:42:44 INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[08:42:44 INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[08:42:44 INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[08:42:44 INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[08:42:44 INFO]: [Essentials] Loaded 43517 items from items.json.
+[08:42:44 INFO]: [Essentials] Using locale fr_CA
+[08:42:44 INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:42:44 INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:42:44 INFO]: [Vault] [Economy] Essentials Economy hooked.
+[08:42:44 INFO]: [Essentials] Using Vault based permissions (GroupManager)
+[08:42:44 INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.4-SNAPSHOT
+[08:42:45 INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:42:45 WARN]: [EssentialsChat] Versions différentes ! Veuillez mettre à jour tous les jars Essentials à la même version.
+[08:42:45 INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[08:42:45 INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[08:42:45 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:42:45 INFO]: [EssentialsProtect] Continuing to enable Protect.
+[08:42:45 INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[08:42:45 INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[08:42:45 ERROR]: Error occurred while enabling EconomyShopGUI v6.10.2 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.files.Lang.get(Lang.java:492) ~[?:?]
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.files.Lang.reload(Lang.java:460) ~[?:?]
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.EconomyShopGUI.onEnable(EconomyShopGUI.java:160) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1253) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-126-3f5728e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "me.gypopo.economyshopgui.util.ServerInfo$Version.newerOrEqualAs(me.gypopo.economyshopgui.util.ServerInfo$Version)" because the return value of "me.gypopo.economyshopgui.util.ServerInfo.getVersion()" is null
+	at EconomyShopGUI-6.10.2.jar//me.gypopo.economyshopgui.util.ChatUtil.<clinit>(ChatUtil.java:18) ~[?:?]
+	... 14 more
+[08:42:45 INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[08:42:45 INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[08:42:45 INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[08:42:45 INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[08:42:45 INFO]: [HeadsPlus] Enabling HeadsPlus v7.1.5
+[08:42:45 INFO]: [HeadsPlus] Using the PaperProfileHandler profile handler.
+[08:42:45 ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[08:42:45 INFO]: [HeadsPlus] Registered 438 heads.
+[08:42:45 INFO]: [HeadsPlus] Registered 3 masks.
+[08:42:45 INFO]: [PlaceholderAPI] Successfully registered internal expansion: headsplus [7.1.5]
+[08:42:45 INFO]: [HeadsPlus] We've registered our PAPI placeholders!
+[08:42:45 INFO]: HeadsPlus »  HeadsPlus has been enabled!
+[08:42:45 INFO]:     __  __               __     ____  __                   _____
+[08:42:45 INFO]:    / / / /__  ____ _____/ /____/ __ \/ /_  _______   _   _/__  /
+[08:42:45 INFO]:   / /_/ / _ \/ __ `/ __  / ___/ /_/ / / / / / ___/  | | / / / / 
+[08:42:45 INFO]:  / __  /  __/ /_/ / /_/ /__  / ____/ / /_/ /__  /   | |/ / / /  
+[08:42:45 INFO]: /_/ /_/\___/\__,_/\__,_/____/_/   /_/\__,_/____/    |___/ /_/  
+[08:42:45 INFO]:                                                                 
+[08:42:45 INFO]: HeadsPlus 7.1.5 has been enabled successfully!
+[08:42:45 INFO]: 
+[08:42:45 INFO]: [spark] Starting background profiler...
+[08:42:45 WARN]: Could not register alias sell because it contains commands that do not exist: economyshopgui:sellall $1-
+[08:42:45 INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:42:45 WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 58 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[08:42:45 INFO]: [Geyser-Spigot] ******************************************
+[08:42:45 INFO]: [Geyser-Spigot] 
+[08:42:45 INFO]: [Geyser-Spigot] Chargement Geyser version 2.9.4-b1092 (git-master-bf93cc3)
+[08:42:45 INFO]: [Geyser-Spigot] 
+[08:42:45 INFO]: [Geyser-Spigot] ******************************************
+[08:42:47 INFO]: [Geyser-Spigot] Geyser a démarré sur le port UDP 19132
+[08:42:47 INFO]: [Geyser-Spigot] Terminé (1,524s) ! Exécuter /geyser help pour de l'aide !
+[08:42:47 INFO]: Running delayed init tasks
+[08:42:47 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:42:47 INFO]: [Essentials] Récupération des informations de version...
+[08:42:47 INFO]: [BentoBox] Hooking with Vault...
+[08:42:47 WARN]: [HeadsPlus] Head with ID camel_husk not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID copper_golem not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID creaking not found.
+[08:42:47 INFO]: [Vault] Checking for Updates ... 
+[08:42:47 WARN]: [HeadsPlus] Head with ID happy_ghast not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID mannequin not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID nautilus not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID parched not found.
+[08:42:47 INFO]: [BentoBox] Hooking with PlaceholderAPI...
+[08:42:47 WARN]: [HeadsPlus] Head with ID BLACK_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID BLACK_AND_WHITE_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID BROWN_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID GOLD_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID SALT_AND_PEPPER_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID THE_KILLER_BUNNY_rabbit not found.
+[08:42:47 WARN]: [HeadsPlus] Head with ID WHITE_rabbit not found.
+[08:42:47 INFO]: [HeadsPlus] Registered 1 rewards.
+[08:42:47 WARN]: [HeadsPlus] Head with ID zombie_nautilus not found.
+[08:42:47 INFO]: [PlaceholderAPI] Successfully registered internal expansion: bentobox [3.2.3]
+[08:42:47 INFO]: [HeadsPlus] Registered 36 levels.
+[08:42:47 INFO]: [BentoBox] Loading islands from database...
+[08:42:47 INFO]: [BentoBox] Hooking with Multiverse-Core...
+[08:42:47 INFO]: 
+  ____             _        ____
+ |  _ \           | |      |  _ \             by tastybento and Poslovitch
+ | |_) | ___ _ __ | |_ ___ | |_) | _____  __  2017 - 2023
+ |  _ < / _ \ '_ \| __/ _ \|  _ < / _ \ \/ /
+ | |_) |  __/ | | | || (_) | |_) | (_) >  <   v3.2.3
+ |____/ \___|_| |_|\__\___/|____/ \___/_/\_\  Loaded in 1442ms.
+
+[08:42:47 INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[08:42:47 INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[08:42:47 INFO]: 0 placeholder hook(s) registered!
+[08:42:47 INFO]: [GroupManager] Bukkit Permissions Updated!
+[08:42:47 INFO]: [Multiverse-Inventories] First run!
+[08:42:47 WARN]: [BentoBox] No Regenerator found for v1_21_11_R0_1_SNAPSHOT, falling back to Bukkit API.
+[08:42:47 INFO]: [BentoBox] All blueprints loaded.
+[08:42:47 INFO]: Done (12.828s)! For help, type "help"
+[08:42:47 INFO]: [GroupManager] No new version available
+[08:42:47 WARN]: [ViaVersion] There is a newer plugin version available: 5.7.2, you're on: 5.3.2
+[08:42:47 INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[08:42:47 INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[08:42:47 INFO]: HeadsPlus »  Current version: 7.1.5
+HeadsPlus »  New version: 7.1.6
+HeadsPlus »  Description: Important Database Fix, 1.21.5 Variant Support and other fixes
+[08:42:47 INFO]: [HeadsPlus] Download link: https://www.spigotmc.org/resources/headsplus-1-8-x-1-12-x.40265/
+[08:42:47 WARN]: [Essentials] Vous êtes en retard de 114 version(s) de développement d‘EssentialsX !
+[08:42:47 WARN]: [Essentials] Téléchargez-la ici : https://essentialsx.net/downloads.html
+[08:42:47 INFO]: [Vault] No new version available
+[08:42:48 INFO]: [HeadsPlus] Avengers, assemble!
+[08:42:48 INFO]: [BentoBox] Downloading data from GitHub...
+[08:42:48 INFO]: [BentoBox] Updating the Catalog...
+[08:42:48 INFO]: [BentoBox] Updating Contributors information...
+[08:42:48 INFO]: [BentoBox] Gathering contribution data for: BentoBoxWorld/BentoBox
+[08:42:48 INFO]: [BentoBox] Successfully downloaded data from GitHub.
