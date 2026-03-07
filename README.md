@@ -1,6 +1,6 @@
 # 🟩 Minecraft Server
 
-Welcome to the repository of **Jimmy Beland-Bedard's** Minecraft server.
+Welcome to the repository of **NoxGamingQC's** Minecraft server.
 
 This repository is used to store the server configuration and archive the worlds generated over the years.
 
@@ -8,7 +8,7 @@ This repository is used to store the server configuration and archive the worlds
 
 ## 📖 About
 
-This Minecraft server is maintained by **Jimmy Beland-Bedard**.
+This Minecraft server is maintained by **Jimmy Béland-Bédard**.
 
 Each year, the world is **reset** to start a new adventure with a fresh world.
 
@@ -59,7 +59,7 @@ Each archive can be loaded in Minecraft to explore builds from previous seasons.
 
 ## 👤 Maintainer
 
-**Jimmy Beland-Bedard**
+**Jimmy Béland-Bédard**
 
 GitHub:  
 https://github.com/NoxGamingQC
