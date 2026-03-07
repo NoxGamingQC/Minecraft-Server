@@ -1,2 +1,5 @@
 *** Warning, you've not updated in a while! ***
 *** Please download a new build from https://papermc.io/downloads/paper ***
+/Users/noxgamingqc/Minecraft Server/start.sh: line 10:  2248 Abort trap: 6           java -Xms4G -Xmx6G -jar server.jar nogui
+*** Warning, you've not updated in a while! ***
+*** Please download a new build from https://papermc.io/downloads/paper ***
