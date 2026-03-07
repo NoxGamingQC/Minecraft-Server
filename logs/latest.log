@@ -1,8 +1,41 @@
-[08:55:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10; Homebrew Homebrew) on Mac OS X 26.3 (aarch64)
-[08:55:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) for Minecraft 1.21.11
-[08:55:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[08:55:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
-[08:55:28] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[09:05:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10; Homebrew Homebrew) on Mac OS X 26.3 (aarch64)
+[09:05:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) for Minecraft 1.21.11
+[09:05:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[09:05:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
+[09:05:07] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - EconomyShopGUI (6.10.2)
-[08:55:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (18):
+[09:05:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (18):
  - BentoBox (3.2.3), DeluxeHub (3.5.5), DiscordSRV (1.29.0), Essentials (2.22.0-dev+68-5abe8b6), EssentialsChat (2.21.0-dev+164-1a4d75c), EssentialsProtect (2.21.1-dev+14-3f5b122), Geyser-Spigot (2.9.4-SNAPSHOT), GroupManager (3.2 (Phoenix)), HeadsPlus (7.1.6), Multiverse-Core (4.3.13), Multiverse-Inventories (4.2.6), PlaceholderAPI (2.12.2), Vault (1.7.3-b131), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.7.2), dynmap (3.7-SNAPSHOT-968), floodgate (2.2.5-SNAPSHOT (b130-d73192f))
+[09:05:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/villager death messages v1.2.9 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/name colors v1.0.5 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/item averages v1.3.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/graves v3.0.4 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_26" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/armor statues v2.8.12 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_18" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/fast leaf decay v2.0.10 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/anti ghast grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/multiplayer sleep v2.6.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/kill empty boats v1.1.8 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/villager workstation highlights v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/dragon drops v1.3.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/pillager tools v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/durability ping v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/armored elytra v2.0.0 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/player head drops v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/silence mobs v1.2.2 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:08] [ServerMain/ERROR]: Couldn't load file/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip overlays metadata: Overlay "overlay_41" declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[09:05:09] [ServerMain/INFO]: Loaded 1470 recipes
+[09:05:09] [ServerMain/INFO]: Loaded 1584 advancements
+[09:05:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[09:05:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 110,8ms
+[09:05:09] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[09:05:09] [Server thread/INFO]: Loading properties
+[09:05:09] [Server thread/INFO]: This server is running Paper version 1.21.11-126-main@3f5728e (2026-02-28T11:49:07Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[09:05:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[09:05:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:05:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:05:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
