@@ -560,3 +560,15 @@ HeadsPlus »  Description: Important Database Fix, 1.21.5 Variant Support and ot
 [08:42:48] [Craft Scheduler Thread - 8 - BentoBox/INFO]: [BentoBox] Updating Contributors information...
 [08:42:48] [Craft Scheduler Thread - 8 - BentoBox/INFO]: [BentoBox] Gathering contribution data for: BentoBoxWorld/BentoBox
 [08:42:48] [Craft Scheduler Thread - 8 - BentoBox/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[08:45:09] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Joueur connecté avec le nom d'utilisateur NoxGamingQC (924)
+[08:45:09] [localSession-7-2/INFO]: [Geyser-Spigot] NoxGamingQC (identifié en tant que: NoxGamingQC) s'est connecté au serveur Java
+[08:45:10] [Geyser Spigot connection thread-6-3/INFO]: [GroupManager] Async Player Login event refresh data... 
+[08:45:10] [Geyser Spigot connection thread-6-3/INFO]: [GroupManager] Async Player Login event finshed. 
+[08:45:10] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Essentials, GroupManager]
+[08:45:10] [Server thread/INFO]: [floodgate] Le joueur Floodgate s'est connecté en tant que NoxGamingQC (UUID: ca9805ec-b880-43b0-b977-8835f41209c3)
+[08:45:10] [Server thread/INFO]: NoxGamingQC joined the game
+[08:45:10] [Server thread/INFO]: NoxGamingQC[/192.168.2.13:0] logged in with entity id 105 at ([world]-39.16323, 77.0, 24.49316)
+[08:45:24] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] NoxGamingQC à été déconnecté du serveur Java à cause de Client Bedrock déconnecté
+[08:45:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Le joueur Floodgate identifié en tant que NoxGamingQC s'est déconnecté
+[08:45:24] [Server thread/INFO]: NoxGamingQC lost connection: Disconnected
+[08:45:24] [Server thread/INFO]: NoxGamingQC left the game
