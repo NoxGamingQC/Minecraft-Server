@@ -1,9 +1,75 @@
-[16:31:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-LTS; Amazon.com Inc. Corretto-21.0.5.11.1) on Linux 6.8.0-87-generic (amd64)
-[16:31:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-225-main@0767902 (2025-04-11T21:49:39Z) for Minecraft 1.21.4
-[16:31:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:31:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 20 plugins
-[16:31:35] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
- - EconomyShopGUI (6.10.2)
-[16:31:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (19):
- - BentoBox (3.2.3), ChunkLoader (3.2.1), DeluxeHub (3.5.5), DiscordSRV (1.29.0), Essentials (2.21.1-dev+14-3f5b122), EssentialsChat (2.21.0-dev+164-1a4d75c), EssentialsProtect (2.21.1-dev+14-3f5b122), Geyser-Spigot (2.7.1-SNAPSHOT), GroupManager (3.2 (Phoenix)), HeadsPlus (7.1.5), Multiverse-Core (4.3.13), Multiverse-Inventories (4.2.6), PlaceholderAPI (2.11.6), Vault (1.7.3-b131), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), dynmap (3.7-SNAPSHOT-968), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[16:31:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:00:22] [Server thread/INFO]: Stopping server
+[08:00:22] [Server thread/INFO]: [HeadsPlus] Disabling HeadsPlus v7.1.5
+[08:00:22] [Server thread/INFO]: [HeadsPlus] §cHeadsPlus §8» §7 HeadsPlus has been disabled!
+[08:00:22] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[08:00:22] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[08:00:22] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[08:00:22] [Server thread/INFO]: [ChunkLoader] Disabling ChunkLoader v3.2.1
+[08:00:22] [Server thread/INFO]: 
+[08:00:22] [Server thread/INFO]: * ChunkLoader Disabled
+[08:00:22] [Server thread/INFO]: *
+[08:00:22] [Server thread/INFO]: * Version: 3.2.1
+[08:00:22] [Server thread/INFO]: * Author: KayTeam
+[08:00:22] [Server thread/INFO]: * Website: https://kayteam.org
+[08:00:22] [Server thread/INFO]: *
+[08:00:22] [Server thread/INFO]: * I like the bread!
+[08:00:22] [Server thread/INFO]: 
+[08:00:22] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.21.1-dev+14-3f5b122
+[08:00:22] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[08:00:22] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+164-1a4d75c
+[08:00:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[08:00:22] [Server thread/INFO]: [Geyser-Spigot] Arrêter Geyser.
+[08:00:22] [Server thread/INFO]: [Geyser-Spigot] L'arrêt de Geyser a réussi.
+[08:00:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1-dev+14-3f5b122
+[08:00:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:00:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[08:00:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:00:22] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[08:00:22] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.13
+[08:00:22] [Server thread/INFO]: [BentoBox] Disabling BentoBox v3.2.3
+[08:00:22] [Server thread/INFO]: [BentoBox] Removing coops from islands...
+[08:00:22] [Server thread/INFO]: [BentoBox] Saving islands - this has to be done sync so it may take a while with a lot of islands...
+[08:00:22] [Server thread/INFO]: [BentoBox] Islands saved.
+[08:00:22] [Server thread/INFO]: [BentoBox] Closing database.
+[08:00:22] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-968
+[08:00:22] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[08:00:22] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[08:00:23] [Server thread/INFO]: [dynmap] Disabled
+[08:00:23] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.2 (Phoenix)
+[08:00:23] [Server thread/INFO]: [Vault][Permission] GroupManager un-hooked.
+[08:00:23] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat un-hooked.
+[08:00:23] [Server thread/WARN]: [GroupManager] Scheduled Data Saving is Disabled!
+[08:00:23] [Server thread/INFO]: [GroupManager] version 3.2 (Phoenix) is disabled!
+[08:00:23] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:00:23] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[08:00:23] [Server thread/INFO]: Saving players
+[08:00:23] [Server thread/INFO]: Saving worlds
+[08:00:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 33 entity chunks, 0 poi chunks in world 'world' in 0,07s
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[08:00:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0,04s
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[08:00:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 29 entity chunks, 0 poi chunks in world 'world_the_end' in 0,04s
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[08:00:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:00:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:00:23] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[08:00:23] [Server thread/INFO]: All I/O tasks to complete
+[08:00:23] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[08:00:23] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

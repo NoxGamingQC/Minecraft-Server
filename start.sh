@@ -1,6 +1,10 @@
 #!/bin/bash
 
-java -Xmx2048M -Xms2048M -jar paper-1.21.4-225.jar --nogui
+cd "/Users/noxgamingqc/Minecraft Server"
 
-cd /home/noxgamingqc/Minecraft\ server
-bash start.sh
+while true
+do
+    java -Xms4G -Xmx6G -jar server.jar nogui
+    echo "Server stopped... restarting in 10 seconds"
+    sleep 10
+done
