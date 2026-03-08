@@ -1,13 +1,67 @@
 {
   "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:stick": 8,
+      "minecraft:sugar_cane": 12,
+      "minecraft:leather": 4,
+      "minecraft:oak_sapling": 3,
+      "minecraft:kelp": 33,
+      "minecraft:beef": 7,
+      "minecraft:lily_of_the_valley": 8,
+      "minecraft:acacia_sapling": 2,
+      "minecraft:apple": 2,
+      "minecraft:leaf_litter": 19,
+      "minecraft:oak_log": 14,
+      "minecraft:acacia_log": 5,
+      "minecraft:sand": 1,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:used": {
+      "minecraft:oak_log": 7
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 16,
+      "minecraft:kelp": 4,
+      "minecraft:sand": 1,
+      "minecraft:acacia_leaves": 43,
+      "minecraft:oak_leaves": 123,
+      "minecraft:kelp_plant": 7,
+      "minecraft:leaf_litter": 8,
+      "minecraft:oak_log": 14,
+      "minecraft:grass_block": 1,
+      "minecraft:lily_of_the_valley": 8,
+      "minecraft:sugar_cane": 7,
+      "minecraft:acacia_log": 5
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:snow_block": 14
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 108,
-      "minecraft:fall_one_cm": 600,
-      "minecraft:total_world_time": 108,
-      "minecraft:leave_game": 1,
-      "minecraft:damage_taken": 30,
-      "minecraft:play_time": 108,
-      "minecraft:time_since_death": 108
+      "minecraft:time_since_rest": 62730,
+      "minecraft:walk_one_cm": 95288,
+      "minecraft:leave_game": 19,
+      "minecraft:walk_under_water_one_cm": 2712,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 100,
+      "minecraft:play_time": 62730,
+      "minecraft:damage_dealt": 300,
+      "minecraft:open_shulker_box": 1,
+      "minecraft:jump": 557,
+      "minecraft:time_since_death": 62730,
+      "minecraft:drop": 14,
+      "minecraft:sprint_one_cm": 67637,
+      "minecraft:open_chest": 11,
+      "minecraft:fall_one_cm": 16537,
+      "minecraft:total_world_time": 62730,
+      "minecraft:swim_one_cm": 17257,
+      "minecraft:fly_one_cm": 133823,
+      "minecraft:walk_on_water_one_cm": 12221,
+      "minecraft:crouch_one_cm": 75,
+      "minecraft:sneak_time": 46
     }
   },
   "DataVersion": 4671

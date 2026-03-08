@@ -16,6 +16,10 @@ Previous worlds are archived using **GitHub Releases** in order to preserve the 
 
 ---
 
+## Points of interest (Current year)
+
+- **Nox's House:** -225, 64, -815 
+
 ## 🗂️ World Archives
 
 Each year:
